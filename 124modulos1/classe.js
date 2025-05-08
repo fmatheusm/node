@@ -13,4 +13,4 @@ module.exports = {
     nome,
     sobrenome,
     Pessoa
-}; // dessa maneira não é possível utilizar mais apenas o exports pois estamos sobrescrevendo o objeto
+}; // dessa maneira não é possível utilizar mais o exports pois estamos sobrescrevendo o objeto
