@@ -1,5 +1,0 @@
-<% controle de fluxo (if, for) %>
-<%= imprime escapando caracteres %>
-<%- imprime sem escapar caracteres %>
-<%# comentário %>
-<%- include('caminhoDoArquivo'); insere o html na pagina desejada %>

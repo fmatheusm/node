@@ -12,6 +12,7 @@
   </h1>
 
   <form action="/" method="POST">
+    <input type="hidden" name="_csrf", value="<%= csrfToken %>">
     <label for="input-teste-1">Cliente</label>
     <input type="text" name="cliente" />
     <button>Enviar</button>
